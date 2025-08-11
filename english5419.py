@@ -12,8 +12,6 @@ import platform
   os.system('cls' if os.name == 'nt' else 'clear')
   
 
-
-
 # Arrays with servers
 ntp_servers = [
     "ntp0.ntp-servers.net", "ntp1.ntp-servers.net", "ntp2.ntp-servers.net",

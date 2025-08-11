@@ -8,7 +8,7 @@ import platform
       print("Error: Missing token number argument.")
       sys.exit(1)
 
-  token_number = int(sys.argv)  # get first argument (as string), convert to int
+  token_number = int(sys.argv)  
   os.system('cls' if os.name == 'nt' else 'clear')
   
 
